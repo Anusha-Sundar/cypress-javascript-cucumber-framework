@@ -3,8 +3,7 @@
 
 Project implemented with testing web page components using a Cypress Cucumber framework
 
-![Logo](img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4)
-
+<img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress Image">
 
 ## Installation
 
